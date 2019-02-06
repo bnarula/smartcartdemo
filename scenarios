@@ -1,0 +1,24 @@
+Slide 1:
+
+Smart Cart and Shopping cart side by side
+		
+The smart shows the top three elements the user is most likely to buy. The items in the smart cart are 
+selected by a prediction algorithm. 
+The algorithm learns based on the user’s selection and becomes more accurate over time.
+
+Slide 2:
+
+User comes back after a few days after buying perishables:
+	The smart card shows the perishables bought by the user in the last order. 
+
+Slide 3:
+
+User comes back after a long time:
+	Smart cart will include non-perishable items as the user is more likely to purchase them.
+
+Slide 4:
+
+Pop up while checking out:
+	If the user has not visited the smart cart, then while checking out the pop up will be shown 
+with the suggestions from smart cart. If the user happens to have visited the smart cart in in the journey,
+ the pop up wont be shown.
